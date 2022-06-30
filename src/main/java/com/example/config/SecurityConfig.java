@@ -116,6 +116,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter{
 //	    return manager;
 //	}
 	
+	
 //	 @Bean
 //		public InMemoryUserDetailsManager inMemoryUserDetailsManager()
 //		{
